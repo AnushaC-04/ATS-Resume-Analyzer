@@ -10,7 +10,7 @@ sys.path.append(ROOT_DIR)
 
 from analyzer import analyze_resume 
 
-st.set_page_config(page_title=" AI Resume Analyzer", page_icon="✦", layout="wide")
+st.set_page_config(page_title="ResumeLens AI - AI Resume Analyzer", page_icon="✦", layout="wide")
 
 
 st.markdown("""
