@@ -1,4 +1,4 @@
-# ResumeLens AI — Intelligent Resume ATS Analyzer
+# ResumeLens AI — Intelligent Resume ATS Analyzer  
 
 > **Understand your resume. Match the right opportunity. Improve your chances.**
 
