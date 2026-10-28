@@ -6,6 +6,21 @@ ResumeLens AI is an AI-powered resume analysis application that compares a candi
 
 The application accepts a resume in PDF format and a job description, processes the resume using NLP and semantic search techniques, and uses Google Gemini to generate a structured analysis including an ATS match score, matching skills, missing skills, and content improvement suggestions.
 
+
+## 📸 Project Screenshots
+
+### 1. Application Interface
+![ResumeLens AI Homepage](screenshots/01-homepage.png)
+
+### 2. Resume Upload
+![Resume Upload](screenshots/02-resume-upload.png)
+
+### 3. Resume Analysis Results
+![Analysis Results](screenshots/03-analysis-results.png)
+
+### 4. Skills Gap Analysis
+![Skills Gap Analysis](screenshots/04-skills-gap.png)
+
 ---
 
 ## Features
